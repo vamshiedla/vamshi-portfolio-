@@ -28,7 +28,7 @@ const Contact: React.FC = () => {
                     onClick={handleEmailClick}
                     className="text-white hover:text-blue-400 transition-colors duration-300"
                   >
-                    vamshiedla06@gmail.com
+                    evamshi043@gmail.com
                   </button>
                 </div>
               </div>
@@ -43,7 +43,7 @@ const Contact: React.FC = () => {
                     href="tel:+919885411928" 
                     className="text-white hover:text-indigo-400 transition-colors duration-300"
                   >
-                    +91 9885411928
+                    +91 9885XXXXXX
                   </a>
                 </div>
               </div>
