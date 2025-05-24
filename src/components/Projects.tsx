@@ -12,7 +12,7 @@ const Projects: React.FC = () => {
       demoLink: "https://ai-powered-realtime-violencedetection.netlify.app/",
       githubLink: "https://github.com/vamshiedla/real-time-violence-detection",
       image: "https://images.pexels.com/photos/7516578/pexels-photo-7516578.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      preview: "https://res.cloudinary.com/dm66yspkb/image/upload/v1748012727/project-1-preview_urjbsl.jpg",
+      preview: "https://res.cloudinary.com/dm66yspkb/image/upload/v1748072719/snap_xwjksx.png",
       tags: ["Machine Learning", "Teachable Machine", "Web Cam API", "TensorFlow.js"]
     },
     {
