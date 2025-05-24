@@ -22,7 +22,7 @@ const Projects: React.FC = () => {
       demoLink: "https://sihprojectve.ccbp.tech/",
       githubLink: "https://github.com/vamshiedla/face-authenticator",
       image: "https://images.pexels.com/photos/7354752/pexels-photo-7354752.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      preview: "https://res.cloudinary.com/dm66yspkb/image/upload/v1748012727/project-2-preview_q4cezv.jpg",
+      preview: "https://res.cloudinary.com/dm66yspkb/image/upload/v1748073220/face_authenticator_veukwg.png",
       tags: ["React.js", "BlazeFace", "Tensor.js", "Authentication"]
     },
     {
@@ -32,7 +32,7 @@ const Projects: React.FC = () => {
       demoLink: "https://foodmunchve.netlify.app/",
       githubLink: "https://github.com/vamshiedla/food-munch",
       image: "https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
-      preview: "https://res.cloudinary.com/dm66yspkb/image/upload/v1748012727/project-3-preview_krqbwk.jpg",
+      preview: "https://res.cloudinary.com/dm66yspkb/image/upload/v1748073220/food-munch_ce1qxj.png",
       tags: ["React", "Node.js", "Stripe", "Responsive Design"]
     }
   ];
