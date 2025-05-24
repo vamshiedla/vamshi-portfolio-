@@ -5,7 +5,7 @@ import { Mail, Phone, Github, Linkedin, Instagram } from 'lucide-react';
 const Contact: React.FC = () => {
   const handleEmailClick = () => {
     const subject = encodeURIComponent("Portfolio Inquiry");
-    window.location.href = `mailto:vamshiedla06@gmail.com?subject=${subject}`;
+    window.location.href = `mailto:evamshi043@gmail.com?subject=${subject}`;
   };
 
   return (
